@@ -7,6 +7,7 @@ public class A {
 		System.out.println("1111");
 		System.out.println("1111");
 		System.out.println(112233);
+		int a=1;
 	}
 
 }
