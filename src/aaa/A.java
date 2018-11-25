@@ -8,6 +8,9 @@ public class A {
 		int a=2;
 	}
 	public void add(){
+		System.out.println("1111");
+		System.out.println(112233);
+		int a=1;
 	}
 
 }
