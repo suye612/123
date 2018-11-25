@@ -10,6 +10,10 @@ public class A {
 	public void add(){
 		System.out.println("1111");
 		System.out.println(112233);
+		
+		
+		
+		
 		int a=1;
 	}
 
